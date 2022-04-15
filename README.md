@@ -16,10 +16,11 @@ Finally, in my free time I am an aviation✈ enthusiast, passionate about motors
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 <p align="center">Feel free reaching out to me at following platforms:</p>
 <p align="center">
   <a href="www.linkedin.com/in/yacinefaroukou"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCxmD1ANh6LbXe_-BoMt7cqQ/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
