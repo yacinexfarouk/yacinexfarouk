@@ -22,5 +22,5 @@ Finally, in my free time I am an aviation✈ enthusiast, passionate about motors
 <p align="center">Feel free reaching out to me at following platforms:</p>
 <p align="center">
   <a href="www.linkedin.com/in/yacinefaroukou"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<p align="center">
   <a href="https://www.youtube.com/channel/UCxmD1ANh6LbXe_-BoMt7cqQ/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
