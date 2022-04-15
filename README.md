@@ -11,13 +11,14 @@ Finally, in my free time I am an aviation✈ enthusiast, passionate about motors
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [yacine.faroukou@gmail.com](mailto:yacine.faroukou@gmail.com).
 
-<h2 align="center">Tech Stack</h2> 
+<h3 align="center">Tech Stack</h3> 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 <img src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 <p align="center">Feel free reaching out to me at following platforms:</p>
 <p align="center">
