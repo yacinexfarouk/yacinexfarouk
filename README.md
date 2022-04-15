@@ -14,10 +14,11 @@ Finally, in my free time I am an aviation✈ enthusiast, passionate about motors
 <h2 align="center">Tech Stack</h2> 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 <p align="center">Feel free reaching out to me at following platforms:</p>
 <p align="center">
