@@ -7,7 +7,8 @@ Always looking for new challenges, I approach all problems from different angles
 My favorite tools and technologies are: SQL, Power BI, Python, Google Cloud Platform and AWS, Excel too from time to time 😉
 Finally, in my free time I am an aviation ✈ enthusiast, passionate about motorsports 🏎 and geopolitics 🌎.
 </p>
-<br>
+
+
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [yacine.faroukou@gmail.com](mailto:yacine.faroukou@gmail.com).
 
