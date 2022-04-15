@@ -5,9 +5,9 @@
 Passionate about data and new technologies, I fully invest myself in all projects that are entrusted to me 💻. I am currently working as a business intelligence and revenue management analyst and transitioning to data engineering. <br><br>
 Always looking for new challenges, I approach all problems from different angles in order to always propose the best possible solution 💡.<br><br>
 My favorite tools and technologies are: SQL, Power BI, Python, Google Cloud Platform and AWS, Excel too from time to time 😉
-Finally, in my free time I am an aviation ✈ enthusiast, passionate about motorsports 🏎 and geopolitics 🌎
+Finally, in my free time I am an aviation ✈ enthusiast, passionate about motorsports 🏎 and geopolitics 🌎.
 </p>
-
+<br>
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [yacine.faroukou@gmail.com](mailto:yacine.faroukou@gmail.com).
 
