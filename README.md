@@ -1,4 +1,4 @@
-<h3 align="center"> Hey 👋, I'm Yacine Faroukou!</h3>
+<h3 align="left"> Hey 👋, I'm Yacine Faroukou!</h3>
 
 <p align="left">
 Passionate about data and new technologies, I fully invest myself in all projects that are entrusted to me 💻. I am currently working as a <i>business intelligence and revenue management analyst</i> and transitioning into <strong>data engineering</strong>. <br><br>
