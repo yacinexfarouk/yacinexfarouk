@@ -23,7 +23,7 @@ src="https://img.shields.io/twitter/follow/yacinexfarouk?logo=twitter&style=for-
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" width="150" height="150" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim"/>
   </a>
 </p>
 
