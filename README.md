@@ -1,27 +1,35 @@
-<h3 align="left"> Hey 👋, I'm Yacine Faroukou!</h3>
+Hi 👋 My name is Yacine Faroukou
+================================
+
+BI Developer & Data Engineer
+----------------------------
+
+Passionate about data and new technologies, I fully invest myself in all projects that are entrusted to me 💻. I am currently working as a business intelligence and revenue management analyst and transitioning into data engineering. Always looking for new challenges, I approach all problems from different angles in order to always propose the best possible solution 💡. My favorite tools and technologies are: SQL, Power BI, Python, Google Cloud Platform and AWS, Excel too from time to time 😉 Finally, in my free time I am an aviation ✈ enthusiast, passionate about motorsports 🏎 and geopolitics 🌎.
+
+* 🌍  I'm based in Canada
+* ✉️  You can contact me at [yacine.faroukou@gmail.com](mailto:yacine.faroukou@gmail.com)
+* 🧠  I'm learning IBM Data Engineer Profesionnal Certificate | AWS Certified Solutions Architect | Snowflake Snowcore Pro
+
+<a href="https://www.twitter.com/yacinexfarouk" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/yacinexfarouk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### Skills
 
 <p align="left">
-Passionate about data and new technologies, I fully invest myself in all projects that are entrusted to me 💻. I am currently working as a <i>business intelligence and revenue management analyst</i> and transitioning into <strong>data engineering</strong>. <br><br>
-Always looking for new challenges, I approach all problems from different angles in order to always propose the best possible solution 💡.<br><br>
-My favorite tools and technologies are: SQL, Power BI, Python, Google Cloud Platform and AWS, Excel too from time to time 😉
-Finally, in my free time I am an aviation ✈ enthusiast, passionate about motorsports 🏎 and geopolitics 🌎.
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 </p>
 
 
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [yacine.faroukou@gmail.com](mailto:yacine.faroukou@gmail.com).
+### Socials
 
-<h3 align="center">Tech Stack</h3> 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-<img src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-<p align="center">Feel free reaching out to me at following platforms:</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/yacine-farouk/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCxmD1ANh6LbXe_-BoMt7cqQ/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</p>
+<p align="left"> <a href="https://www.github.com/yacinexfarouk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yacinexfarouk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yacinefaroukou" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yacinexfarouk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCxmD1ANh6LbXe_-BoMt7cqQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/yacinexfarouk"><img src="https://github-readme-stats.vercel.app/api?username=yacinexfarouk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="yacinexfarouk's GitHub stats" /></a>
