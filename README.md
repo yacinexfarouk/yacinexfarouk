@@ -12,9 +12,6 @@ Finally, in my free time I am an aviation ✈ enthusiast, passionate about motor
 * ✉️  You can contact me at [yacine.faroukou@gmail.com](mailto:yacine.faroukou@gmail.com)
 * 🧠  I'm learning IBM Data Engineer Profesionnal Certificate | AWS Certified Solutions Architect | Snowflake Snowcore Pro
 
-<a href="https://www.twitter.com/yacinexfarouk" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/yacinexfarouk?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
@@ -24,9 +21,11 @@ src="https://img.shields.io/twitter/follow/yacinexfarouk?logo=twitter&style=for-
   </a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/yacinexfarouk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yacinexfarouk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yacinefaroukou" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/yacinexfarouk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCxmD1ANh6LbXe_-BoMt7cqQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+
 
 ### My GitHub Stats
 
